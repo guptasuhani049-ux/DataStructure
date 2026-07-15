@@ -14,7 +14,7 @@ printf("enter the number to find:");
 scanf("%d",&x);
 for(i=0;i<n;i++)
 {
-if(arr[i]=x)
+if(arr[i]==x)
 {
 count++;
 if(firstPosition==-1)
